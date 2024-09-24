@@ -10,6 +10,4 @@
 
 - the product will be like this
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/muhammedhossam/FaceAnonymizer/blob/main/output/out_video.mp4" type="video/mp4">
-</video>
+![](https://github.com/muhammedhossam/FaceAnonymizer/blob/main/output/face_blured.jpg)
