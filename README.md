@@ -10,4 +10,6 @@
 
 - the product will be like this
 
-![]([https://github.com/muhammedhossam/FaceAnonymizer/blob/main/output/out_video.mp4])
+<video width="320" height="240" controls>
+  <source src="https://github.com/muhammedhossam/FaceAnonymizer/blob/main/output/out_video.mp4" type="video/mp4">
+</video>
