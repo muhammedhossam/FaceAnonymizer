@@ -10,4 +10,4 @@
 
 - the product will be like this
 
-![]([my_video.mov](https://github.com/muhammedhossam/FaceAnonymizer/blob/main/output/out_video.mp4))
+![]([https://github.com/muhammedhossam/FaceAnonymizer/blob/main/output/out_video.mp4])
